@@ -4,6 +4,11 @@
 ### Scope: 
 - Design, manufacture, assembly, verification, and distribution of thermocouples.
 
+## Clause 5 — Leadership
+- Evidence needed:
+- Quality Policy (1 page, signed)
+- Simple role definition (can be in SOPs)
+
 ## 1. Process Overview
 ``` 
 Customer Order
