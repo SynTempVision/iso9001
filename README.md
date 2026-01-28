@@ -7,17 +7,33 @@
 ``` 
 Customer Order
 ↓
-Order Review (type, range, tolerance)
+Order Review (QA)
+• specs complete?
+• range, tolerance, quantity confirmed?
+• unclear → stop & clarify
 ↓
-Material Selection (wire, junction, sheath)
+Material Selection (QA)
+• materials verified suitable
+• visual check
 ↓
 Manufacturing / Machining
 ↓
 Assembly / Fabrication
 ↓
-Calibration / Verification
+Calibration / Verification (QC)
+• defined acceptance criteria
+• pass / fail decision
+• result recorded
 ↓
-Labeling & Traceability
+Labeling & Identification
+• job / WO identification
+• traceability as applicable
 ↓
-Packaging & Shipping
+Final Review & Packaging (QC)
+• correct item
+• correct customer
+• documentation present
+↓
+Shipping
+
 ```
