@@ -1,8 +1,7 @@
 # iso9001 SOP-001
-## Standard: ISO 9001
 ### Scope: Design, manufacture, assembly, verification, and distribution of thermocouples.
 
-1. Process Overview
+## 1. Process Overview
 ``` 
 Customer Order
 ↓
