@@ -18,6 +18,14 @@ For questions or change requests, contact the Quality Lead.
 - Quality Policy (1 page, signed)
 - Simple role definition (can be in SOPs)
 
+- ```mermaid
+flowchart TD
+A[Order Received] --> B[Design]
+B --> C[Manufacture]
+C --> D[Verify]
+D --> E[Ship]
+
+
 ```
 At SynTemp we take pride in providining the highest quallity of products and services that consistently meet or exceed our customers' needs and regulatory requirements.
 We seek to achieve this by:
