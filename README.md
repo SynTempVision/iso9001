@@ -26,7 +26,7 @@ Final Review & Packaging (QC)
 Shipping
 ```
 
-2. Order Receipt & Work Order (QA)
+## 2. Order Receipt & Work Order (QA)
 - Customer orders are received and converted into a work order.
 - Work orders are created by management or authorized personnel.
 - Orders are reviewed for completeness, including:
@@ -36,3 +36,13 @@ Shipping
    - quantity
 - If requirements are unclear or missing, work stops until clarification is obtained.
 - Record: Work Order (Order Review section)
+
+## 3. Material Selection (QA)
+- Materials (wire, ceramic, metal, flanges, etc.) are selected based on work order requirements.
+- Materials are visually inspected for suitability and damage.
+- Nonconforming or damaged material is not used.
+- Record: Work Order (Material verification note, if applicable)
+
+## 4 4. Manufacturing / Machining
+- Parts are produced according to work order requirements by the operator.
+- Manufacturing steps follow established practices.
