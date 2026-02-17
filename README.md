@@ -111,6 +111,42 @@ Shipping
 
 ## 9. Shipping
 - Only verified and approved products are shipped.
+
+
+# SynTemp Vision
+# ISO 9001 Quality Management System (QMS)
+
+This repository contains controlled Quality Management System (QMS) documents in accordance with ISO 9001:2015.
+
+Only documents in the `main` branch are approved for use.
+Changes require review and approval via pull request.
+Printed copies are considered uncontrolled.
+
+Document control is managed via Git version history.
+
+---
+
+## QMS Scope
+
+Design, manufacture, assembly, verification, and distribution of thermocouples.
+
+---
+
+## Repository Structure
+
+01_Context
+02_Leadership
+03_Planning
+04_Support
+05_Operation
+06_Performance_Evaluation
+07_Improvement
+Forms
+Records
+Templates
+
+For change requests, contact the Quality Lead.
+
 - Shipping details are recorded.
 
 ## 10. Role Flexibility
