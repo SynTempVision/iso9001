@@ -21,9 +21,9 @@ The Quality Management System applies to the design, manufacture, assembly, test
 
 The following documents satisfy ISO 9001 documented requirements:
 
-- `Scope.md`
-- `Quality_Policy.md`
-- `Quality_Objectives.md`
+- `01_Scope.md`
+- `02_Quality_Policy.md`
+- `03_Quality_Objectives.md`
 
 Additional records and evidence are maintained within the repository to support operational control and continual improvement.
 
