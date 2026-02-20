@@ -152,3 +152,28 @@ For change requests, contact the Quality Lead.
 ## 10. Role Flexibility
 - Where staffing requires, one individual may perform multiple process steps.
 - QA/QC checks and records are used to maintain control and prevent nonconforming product shipment.
+
+
+rewuired documents: Required Documents (Hard Requirement)
+
+Scope (4.3)
+
+Quality Policy (5.2)
+
+Quality Objectives (6.2)
+
+Evidence of competence (7.2)
+
+Calibration / monitoring records (7.1.5)
+
+Operational control evidence (8.1–8.6 records)
+
+Control of nonconforming output records (8.7)
+
+Monitoring & measurement results (9.1)
+
+Internal audit program & results (9.2)
+
+Management review results (9.3)
+
+Corrective action records (10.2)
