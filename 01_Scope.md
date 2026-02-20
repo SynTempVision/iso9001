@@ -1,6 +1,6 @@
 # QMS Scope of Registration
 
-Document ID: 01_Scope 
+Document ID: 01_Scope  
 Version: 1.0  
 Owner:    
 Approved By:   
